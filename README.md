@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Movieville - My First React App
+
+Thanks to Javascript Mastery
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
